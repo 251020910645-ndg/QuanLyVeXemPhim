@@ -4,7 +4,7 @@ Bài tập lớn OOP — Nhóm 06. Web đặt vé xem phim: chọn phim, chọn 
 
 ## 1. Chạy Frontend
 
-Frontend chạy tại [[https://251020910645-ndg.github.io/QuanLyVeXemPhim/frontend/](https://251020910645-ndg.github.io/QuanLyVeXemPhim/frontend/)](https://nguyenthihongduyen0102.github.io/QuanLyVeXemPhim/frontend/). Mở link này bằng trình duyệt để dùng web.
+Frontend chạy tại [[https://251020910645-ndg.github.io/QuanLyVeXemPhim/frontend/](https://251020910645-ndg.github.io/QuanLyVeXemPhim/frontend/)]. Mở link này bằng trình duyệt để dùng web.
 
 ## 2. Tài khoản đăng nhập thử (demo)
 
